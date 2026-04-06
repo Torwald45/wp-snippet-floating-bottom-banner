@@ -14,5 +14,5 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Universal design - works for any type of message (delivery, promotions, announcements)
 - Responsive design with mobile support
 - Unique prefixes (torwald45_floban_) for all CSS classes to prevent conflicts
-- Compatible with standard WordPress themes
+- Compatible with standard WP themes
 - Tested with Elementor page builder

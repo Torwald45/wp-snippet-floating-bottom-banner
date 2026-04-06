@@ -1,20 +1,20 @@
 # WP Snippet: Floating Bottom Banner
 
-A lightweight WordPress snippet that adds a fixed position banner at the bottom of your page. Perfect for displaying promotions, delivery information, announcements, or any important messages to your visitors.
+A lightweight WP snippet that adds a fixed position banner at the bottom of your page. Perfect for displaying promotions, delivery information, announcements, or any important messages to your visitors.
 
 ## Features
 
 - Fixed position banner at bottom of page
 - Customizable text and styling via code
 - Lightweight CSS solution (no JavaScript)
-- Works with any WordPress theme
+- Works with any WP theme
 - Universal - can display any content (promotions, delivery info, announcements)
 - No dependencies required
 - Unique prefixes (torwald45_floban_) to prevent conflicts
 
 ## Requirements
 
-- WordPress 5.0 or higher
+- WP 5.0 or higher
 - PHP 7.4 or higher
 
 ## Installation
